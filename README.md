@@ -124,7 +124,7 @@ pip install aquacrop SALib numpy pandas matplotlib seaborn
 
 ### **References**
 - **AquaCrop-OSPy (PyPI):** https://pypi.org/project/aquacrop/  
-- **AquaCrop-MATLAB Source (GitHub):** https://github.com/aquacropos/aquacrop  
+- **AquaCrop-OSPy Source (GitHub):** https://github.com/aquacropos/aquacrop  
 - **FAO AquaCrop Official Model:** https://www.fao.org/aquacrop/zh/  
 
 > The AquaCrop model is developed and maintained by the Food and Agriculture Organization (FAO) of the United Nations.  
